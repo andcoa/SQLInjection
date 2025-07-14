@@ -38,4 +38,15 @@ Finding the number of users registered in the application and length of their pa
 
 <img width="1186" height="599" alt="image" src="https://github.com/user-attachments/assets/522afaf3-8758-49bf-ba26-ea7e7d9121d0" />
 
+Added the extract_hash_bst function to enable binary search and optimize the number of queries:
+
+<img width="1429" height="1038" alt="image" src="https://github.com/user-attachments/assets/17949925-648c-417f-833e-b8b06541317b" />
+
+Result:
+
+The number of queries to extract the password hash was halved.
+
+<img width="1370" height="762" alt="image" src="https://github.com/user-attachments/assets/53d433dc-5348-4bfa-9b68-e1dfc3e04392" />
+
+
 ⚠️ Note: This script is for educational and ethical penetration testing purposes only, and should not be used against any system without explicit authorization.
