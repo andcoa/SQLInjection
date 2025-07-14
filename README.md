@@ -1,6 +1,6 @@
-# SQLInjection
+# Exploiting a SQL injection
 
-Automate performing an SQL injection using Python. Data being extracted is hashsums
+Automate performing an SQL injection using Python. 
 
 <img width="1529" height="1294" alt="image" src="https://github.com/user-attachments/assets/cc73d032-5d83-4c16-91c1-9d7c9396e443" />
 
