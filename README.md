@@ -40,7 +40,7 @@ Finding the number of users registered in the application and length of their pa
 
 ## Optimizing the script
 
-Added the extract_hash_bst function to enable binary search and optimize the number of queries:
+Added the extract_hash_bst function to enable binary search and optimize the retrieval of the password hash:
 
 <img width="1429" height="1038" alt="image" src="https://github.com/user-attachments/assets/17949925-648c-417f-833e-b8b06541317b" />
 
