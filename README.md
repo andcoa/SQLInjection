@@ -17,8 +17,6 @@ Simulate an automated blind SQL injection attack to extract password hashes from
 - **Requests**: HTTP client library to send POST requests to the target application.
 - **Kali Linux CLI**: Used as the runtime environment for launching the script.
 - **Vulnerable Web App**: Test environment to simulate the attack.
-  
-> ⚠️ **Note**: This script is for educational and ethical penetration testing purposes only, and should not be used against any system without explicit authorization.
 
 ## Steps
 
@@ -40,4 +38,4 @@ Finding the number of users registered in the application and length of their pa
 
 <img width="1186" height="599" alt="image" src="https://github.com/user-attachments/assets/522afaf3-8758-49bf-ba26-ea7e7d9121d0" />
 
-
+⚠️ Note: This script is for educational and ethical penetration testing purposes only, and should not be used against any system without explicit authorization.
