@@ -2,7 +2,7 @@
 
 Automate performing an SQL injection using Python. Data being extracted is hashsums
 
-<img width="1531" height="1300" alt="image" src="https://github.com/user-attachments/assets/6427f58e-34db-4c70-b894-141b4bba55f7" />
+<img width="1529" height="1294" alt="image" src="https://github.com/user-attachments/assets/cc73d032-5d83-4c16-91c1-9d7c9396e443" />
 
 When entering a character with a quote:
 
