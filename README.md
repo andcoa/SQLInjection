@@ -1,4 +1,4 @@
-# Exploiting a SQL Injection
+# Automated Blind SQL Injection
 
 ## Objective  
 Simulate an automated blind SQL injection attack to extract password hashes from a vulnerable web application by leveraging conditional logic, character enumeration, and payload injection.
