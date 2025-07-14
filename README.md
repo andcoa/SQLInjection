@@ -1,4 +1,4 @@
-# Exploiting a SQL injection
+# Exploiting a SQL Injection
 
 Automate performing an SQL injection using Python. 
 
