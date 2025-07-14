@@ -10,5 +10,6 @@ When entering a character with a quote:
 
 Finding the number of users registered in the application and length of their password:
 
-<img width="1188" height="610" alt="image" src="https://github.com/user-attachments/assets/abdd1881-aa7f-4e50-9c15-8c4ba279f878" />
+<img width="1186" height="599" alt="image" src="https://github.com/user-attachments/assets/522afaf3-8758-49bf-ba26-ea7e7d9121d0" />
+
 
